@@ -1,1 +1,1 @@
-{"name": "perf-test", "dependencies": {"express": "^4.17.1"}}
+{"name":"perf-test","dependencies":{"express":"^4.17.1"},"devDependencies":{"@codspeed/vitest-plugin":"^5.2.0","vitest":"^4.0.18"}}
